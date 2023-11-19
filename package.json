@@ -1,0 +1,18 @@
+{
+  "name": "raspi-spotify-jukebox",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "npm i && node start.js"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.1",
+    "prettier": "^3.1.0",
+    "shelljs": "^0.8.5"
+  },
+  "workspaces": [
+    "client",
+    "reader"
+  ]
+}

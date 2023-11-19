@@ -1,0 +1,10 @@
+{
+  "name": "@rsj/reader",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
