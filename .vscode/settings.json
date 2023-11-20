@@ -1,0 +1,13 @@
+{
+  "cSpell.words": [
+    "fullscreen",
+    "icns",
+    "pinia",
+    "Raspi",
+    "tailwindcss",
+    "tauri"
+  ],
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+}
